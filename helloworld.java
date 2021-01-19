@@ -3,5 +3,6 @@ public class HelloWorld{
     System.out.println("Hello World");
     System.out.ptintln("Minggu Harep Ka PeTIK?");
     System.out.ptintln("Teuing euy haha");
+    System.out.ptintln("Udah Di PeTIK");
   }
 }
